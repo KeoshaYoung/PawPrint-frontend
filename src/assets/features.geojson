@@ -1,0 +1,581 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keystone State Challenge Academy",
+        "address": "Bldg. 0-13, Fort Indiantown Gap Annville, PA 17003",
+        "website": "http://www.dmva.pa.gov/KeystoneStateChallengeAcademy"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.56846,
+          40.430196
+        ],
+        "type": "Point"
+      },
+      "id": "04ffb401b02998d81adfb24fa84be81f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virginia Commonwealth Challenge Youth Academy",
+        "address": "253C Street Camp Pendleton Virginia Beach, VA 23451",
+        "website": "http://www.vachallenge.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.98677,
+          36.812833
+        ],
+        "type": "Point"
+      },
+      "id": "0e4f45b24311481a17a8179269fee926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grizzly Academy",
+        "address": "721 Mendocino Ave San Luis Obispo, CA 93405",
+        "website": "https://www.grizzlyyouthacademy.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.732042,
+          35.323034
+        ],
+        "type": "Point"
+      },
+      "id": "1f0d40e4e07630bef0e3310d15088755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoosier Youth Challenge Academy",
+        "address": "10892 North State Road 140 Knightstown, IN 46148-9718",
+        "website": "https://www.in.gov/ago/hyca"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.519557,
+          39.768125
+        ],
+        "type": "Point"
+      },
+      "id": "20c01bf9feda8bd04bf22212f51b958f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freestate Challenge Program",
+        "address": "Bldg #E4230, Beal Rd, APG Edgewood Area Gunpowder, MD 21210",
+        "website": "https://freestatemil.maryland.gov"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.294959,
+          39.387897
+        ],
+        "type": "Point"
+      },
+      "id": "22f2406cadcffc385151538806e4d4ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln's Challenge Academy",
+        "address": "212 W. Borman Rantoul, IL 61866",
+        "website": "http://www.lincolnschallenge.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.181023,
+          40.048786
+        ],
+        "type": "Point"
+      },
+      "id": "26f90dd38f8658276dae71961c82b7ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Youth Challenge Academy",
+        "address": "1207 Carver St NW Bremerton, WA 98312",
+        "website": "https://mil.wa.gov/youth-academy"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.682876,
+          47.554422
+        ],
+        "type": "Point"
+      },
+      "id": "29a050ccdd6d86df1c8d672ff28a4464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alaska Military Youth Academy",
+        "address": "Bldg. 60702 COL Wilfred Wood Dr., Camp Carroll   JBER, AK 99505-5727",
+        "website": "https://dmva.alaska.gov/AMYA"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.730313,
+          61.21064
+        ],
+        "type": "Point"
+      },
+      "id": "2b62b18dc92de003f9ad654d5cc83740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Jersey Challenge Youth Program",
+        "address": "100 Camp Drive Sea Girt, NJ 08750",
+        "website": "https://njyca.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.039543,
+          40.122663
+        ],
+        "type": "Point"
+      },
+      "id": "2ea49d103eab76971cef2d86e09a25a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tar Heel Challenge Academy",
+        "address": "215 N. Main St New London, NC 28127",
+        "website": "https://nc-tcachallenge.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.224889,
+          35.447415
+        ],
+        "type": "Point"
+      },
+      "id": "44d468977465f5d96d1ecb6787c04ac2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawaii NG Youth Challenge Academy",
+        "address": "Building 1787 Shangrila Street Kapolei, HI 96707-0348",
+        "website": "http://dod.hawaii.gov/yca/"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.071164,
+          21.318731
+        ],
+        "type": "Point"
+      },
+      "id": "46f878b92966b2058d33b85ed0bc6a7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1502 Hwy 26 Building 505  Camp Guernsey, WY 82214",
+        "name": "Wyoming Youth Challenge Academy",
+        "website": "https://wycowboychallenge.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.736675,
+          42.262973
+        ],
+        "type": "Point"
+      },
+      "id": "47acf5365c5875d6d5a9188cd504c8ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Texas Challenge Academy",
+        "address": "600 HWY 3013 West Eagle Lake, TX 77434",
+        "website": "https://tmd.texas.gov/texas-challenge-academy"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.324339,
+          29.574469
+        ],
+        "type": "Point"
+      },
+      "id": "50fb8d56e0bf53e613f46c85aeb2cdbc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florida Youth Challenge Academy",
+        "address": "5629 State Road 16 West, Bldg 3800 Starke, FL 32091",
+        "website": "https://www.floridayouthchallengeacademy.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.986959,
+          29.980342
+        ],
+        "type": "Point"
+      },
+      "id": "681db2ab00baa0d85a36f9646c01a30b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idaho Youth Challenge Academy",
+        "address": "117 Timberline Drive Pierce, ID 83546",
+        "website": "http://www.idyouthchallenge.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.800139,
+          46.49808
+        ],
+        "type": "Point"
+      },
+      "id": "6b508c34e23274bddd57ab33e245be9d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "200 Louisiana Blvd Camp Minden, LA 71055",
+        "name": "Louisiana National Guard Youth Challenge Program",
+        "website": "https://langycp.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.270308,
+          32.626677
+        ],
+        "type": "Point"
+      },
+      "id": "7fd5e320536b6f0185291e872fa9ac2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan Youth Challenge",
+        "address": "5500 Armstrong Road, Bldg #13 Battle Creek, MI 49037",
+        "website": "https://www.michigan.gov/myca"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.295256,
+          42.341155
+        ],
+        "type": "Point"
+      },
+      "id": "81b29b907c972ab40a42da5c8f2f6371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Battle Born Youth Challenge Academy",
+        "address": "100 University Ave. Carlin, NV. 89822",
+        "website": "https://nvng.nv.gov/BBYCA"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.035262,
+          40.731143
+        ],
+        "type": "Point"
+      },
+      "id": "81f3ff72fd840c3c19c2464e156f2641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "505 F Street, Camp Beauregard Pineville, LA 71360",
+        "name": "Louisiana National Guard Youth Challenge Program",
+        "website": "https://langycp.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.401699,
+          31.371951
+        ],
+        "type": "Point"
+      },
+      "id": "8b789d59ce6fab7d318e4d3b18c5b227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Carolina Youth Challenge Academy",
+        "address": "5471 Leesburg Road Bldg 3892 Eastover, SC 29044",
+        "website": "https://scyouthchallenge.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.721573,
+          34.009405
+        ],
+        "type": "Point"
+      },
+      "id": "903cc915cea7ff31050e89ebe204d472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Appalachian Challenge Academy",
+        "address": "465 Grays Drive Gray's Knob, KY 40829",
+        "website": "https://www.challengeaca.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.306712,
+          36.804538
+        ],
+        "type": "Point"
+      },
+      "id": "a27c50536950227a80b16163a2ae2fd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mississippi Youth Challenge",
+        "address": "Building 80 Halloran Ave Camp Shelby, MS 39407-5500",
+        "website": "http://msyouthchallenge.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.232034,
+          31.190878
+        ],
+        "type": "Point"
+      },
+      "id": "a59bd5556b3758844ba0a851107c7638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Mexico Youth Challenge Academy",
+        "address": "131 Earl Cummings Loop Roswell, NM 88203",
+        "website": "http://www.nmyca.net"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.5164,
+          33.311559
+        ],
+        "type": "Point"
+      },
+      "id": "a65dc70d2950d557cf5401e482ffb949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountaineer Challenge Academy South",
+        "address": "305 Fayette Pike Montgomery, WV 25136",
+        "website": "http://wvchallenge.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.325678,
+          38.179809
+        ],
+        "type": "Point"
+      },
+      "id": "b55e9f4ecbe778bbdf83df56ede71574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisconsin Challenge Academy",
+        "address": "749 East 12th Avenue Fort McCoy, WI 54656",
+        "website": "https://www.challengeacademy.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.674027,
+          44.020085
+        ],
+        "type": "Point"
+      },
+      "id": "c085b007023404c3879b520ffcf1bdac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunburst Youth Challenge Academy",
+        "address": "4022 Saratoga Ave, Bldg 21 Los Alamitos, CA 90720",
+        "website": "https://sunburstyouthacademy.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.063211,
+          33.795293
+        ],
+        "type": "Point"
+      },
+      "id": "cb2c36a3f84b155886c7befbec87ae64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawaii NG Youth Challenge Academy",
+        "address": "1046 Leilani St, Bldg 621 Hilo, HI 96720-8210",
+        "website": "http://dod.hawaii.gov/yca/"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.053193,
+          19.71297
+        ],
+        "type": "Point"
+      },
+      "id": "ceb934b60fb8657032f9c4018e6e13e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgia Youth Challenge Academy",
+        "address": "574 40th Street Fort Gordon, GA 30905",
+        "website": "https://www.georgiayouthchallenge.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.133724,
+          33.408609
+        ],
+        "type": "Point"
+      },
+      "id": "d3d3fe696a355e0c0f322d842088bb99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thunderbird Challenge Program",
+        "address": "417 S. Elliot, Bldg 304 Pryor, OK 74361",
+        "website": "http://thunderbird.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.309699,
+          36.297915
+        ],
+        "type": "Point"
+      },
+      "id": "dbf876449c0b203636080e8e38965d6a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louisiana National Guard Youth Challenge Program",
+        "address": "5445 Point Clair, Bldg 20 Carville, LA 70721",
+        "website": "https://langycp.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.124287,
+          30.197098
+        ],
+        "type": "Point"
+      },
+      "id": "dca6c5c3f846fcb6762bb82188faa53c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregon NG Youth Challenge Program",
+        "address": "23861 Dodds Road Bend, OR 97701",
+        "website": "https://www.oycp.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.133458,
+          44.024946
+        ],
+        "type": "Point"
+      },
+      "id": "e1f951daf01db10104104671b3c4deff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bluegrass Challenge Academy",
+        "address": "114 Conroy Ave, bldg # 5549 Fort Knox, KY 40121",
+        "website": "https://www.bcachallenge.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.98387,
+          37.900186
+        ],
+        "type": "Point"
+      },
+      "id": "e2c248bac78e9f7e497d3608c5247434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arkansas Youth Challenge",
+        "address": "Camp J.T. Robinson, Bldg 16414 North Little Rock, AR 72199-9600",
+        "website": "https://www.aryouthchallenge.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.295208,
+          34.822214
+        ],
+        "type": "Point"
+      },
+      "id": "e8e10b290a28abee226f5dcb470ee4ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountaineer Challenge Academy North",
+        "address": "1001 Army Road, Building 443 Kingwood, WV 26537-1077",
+        "website": "http://wvchallenge.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.667489,
+          39.448356
+        ],
+        "type": "Point"
+      },
+      "id": "eb19e1fbc24ed3331e7ae6b5b7de9e0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Discovery Challenge Academy",
+        "address": "700 East Roth Rd Lathrop, CA 95330",
+        "website": "https://iamdiscovery.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.268143,
+          37.853702
+        ],
+        "type": "Point"
+      },
+      "id": "f575176ade0b6a8187d7bda9fe5dbca8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capital Guardian Youth Challenge",
+        "address": "3201 Oak Hill Drive Laurel, DC 20724",
+        "website": "http://www.cgyca.org"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.77894,
+          39.106042
+        ],
+        "type": "Point"
+      },
+      "id": "f6a6586f57704bfd295bb8a88ca1828a"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -12,7 +12,7 @@ export default {
     };
   },
   mounted: function () {
-    this.mapFun();
+    this.mapApp();
     this.darkmode;
   },
   created: function () {
@@ -32,11 +32,11 @@ export default {
         return lowerSearch.includes(lowerSearchFilter);
       });
     },
-    mapFun: function () {
+    mapApp: function () {
       mapboxgl.accessToken = process.env.VUE_APP_MY_API_KEY;
       const map = new mapboxgl.Map({
         container: "map", // container ID
-        style: "mapbox://styles/mapbox/streets-v11", // style URL
+        style: "mapbox://styles/kyoung1012/cl7tt1ucf000114mohi2ld85x", // style URL
         center: [-84.388, 33.749], // starting position [lng, lat]
         zoom: 9, // starting zoom
         projection: "globe", // display the map as a 3D globe
@@ -45,12 +45,6 @@ export default {
       map.on("style.load", () => {
         map.setFog({}); // Set the default atmosphere style
       });
-
-      // create the popup
-      const popup = new mapboxgl.Popup({ offset: 25 }).setText("Come enjoy the World of Coca-Cola.");
-      // Create a default Marker and add it to the map.
-      const marker1 = new mapboxgl.Marker().setLngLat([-84.3924, 33.7626]).setPopup(popup).addTo(map);
-      console.log(marker1);
     },
     darkmode: function () {
       new Darkmode().showWidget();
@@ -95,16 +89,15 @@ export default {
 }
 .container {
   display: grid;
-  grid-template-columns: 1fr 2.2fr 0.1fr;
-  grid-template-rows: 0.3fr 2.3fr 0.4fr;
-  gap: 0px 0px;
-  grid-auto-flow: row;
+  grid-template-columns: 1.5fr 0.1fr 1.7fr;
+  grid-template-rows: 0.2fr 1.8fr 1fr;
+  gap: 5px 6px;
   grid-template-areas:
     ". . ."
-    "searchbar map ."
+    "SearchBar SearchBar map"
     ". . .";
-  width: 350px;
-  height: 1000px;
+  width: 50%;
+  height: 50%;
 }
 
 #map {
